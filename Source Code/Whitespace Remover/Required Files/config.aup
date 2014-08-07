@@ -1,0 +1,3 @@
+APPLICATION_NAME=Whitespace Remover
+EXECUTABLE=Whitespace Remover.exe
+MANIFEST=http://www.commerce.uct.ac.za/Services/CodeUnit/AutoUpdate/Whitespace Remover/manifest.xml
